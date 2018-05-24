@@ -1,9 +1,12 @@
 1. Create a DB
 2. Create a basic webserver or website with basic search functions
-3. Use algorithm (preferably machine learning) to output related results (similar to Netflix recommandation)
+3. Use algorithm (preferably machine learning) to output related results (similar to Netflix recommendation)
 4. If 1-3 is done and works perfect, upgrade the user interface. 
 5. Add visual graph to admin page (?)
 
 
 
 Language: JavaScript and Cypher
+Algorithm: 
+Machine Learning(ML): Neural Network (https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5)
+How to search for relevant information or content: using tags...
